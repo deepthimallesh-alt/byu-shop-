@@ -1,0 +1,7 @@
+{
+  "name": "BYU - Premium E-Commerce Platform",
+  "description": "A modern, full-featured e-commerce platform featuring catalog browsing, smart filtering, cart, secure checkout, order tracking, reviews, wishlist, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
